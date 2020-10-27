@@ -4,7 +4,7 @@
   <artifactId>custom-form-renderer</artifactId>
   <version>1.0.0</version>
   <name>Custom Form Renderer</name>
-  
+  <packaging>kjar</packaging>
   <properties>
     <version.org.kie>7.14.0.Final</version.org.kie>
   </properties>
